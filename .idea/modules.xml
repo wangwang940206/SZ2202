@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/power-shop/issa/auth/auth.iml" filepath="$PROJECT_DIR$/power-shop/issa/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-shop/power-common/base/base.iml" filepath="$PROJECT_DIR$/power-shop/power-common/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-shop/power-common/core/core.iml" filepath="$PROJECT_DIR$/power-shop/power-common/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-shop/issa/gateway/gateway.iml" filepath="$PROJECT_DIR$/power-shop/issa/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-shop/issa/issa.iml" filepath="$PROJECT_DIR$/power-shop/issa/issa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-shop/power-business/power-business.iml" filepath="$PROJECT_DIR$/power-shop/power-business/power-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-shop/power-common/power-common.iml" filepath="$PROJECT_DIR$/power-shop/power-common/power-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-shop/power-shop.iml" filepath="$PROJECT_DIR$/power-shop/power-shop.iml" />
+    </modules>
+  </component>
+</project>

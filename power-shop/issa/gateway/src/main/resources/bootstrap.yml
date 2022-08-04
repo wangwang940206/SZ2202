@@ -1,0 +1,20 @@
+spring:
+    application:
+        name: gateway-server
+    cloud:
+        nacos:
+            server-addr: vm-server:8848
+            username: nacos
+            password: nacos
+            discovery:
+                namespace: aaca8596-ce87-467a-9a7f-2c0687d3d224
+                group: A_GROUP
+                service: ${spring.application.name}
+            config:
+                namespace: ${spring.cloud.nacos.discovery.namespace}
+                group: ${spring.cloud.nacos.discovery.group}
+                prefix: ${spring.application.name}
+                file-extension: yml
+    profiles:
+        active: dev
+
